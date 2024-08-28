@@ -1,0 +1,2 @@
+https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb
+https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/
